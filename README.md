@@ -21,3 +21,4 @@
 8. Post-order traversal
 9. Height
 10. Depth
+11. Size
