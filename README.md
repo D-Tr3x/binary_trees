@@ -23,3 +23,4 @@
 10. Depth
 11. Size
 12. Leaves
+13. Nodes
