@@ -20,3 +20,4 @@
 7. In-order traversal
 8. Post-order traversal
 9. Height
+10. Depth
