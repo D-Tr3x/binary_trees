@@ -25,3 +25,4 @@
 12. Leaves
 13. Nodes
 14. Balance factor
+15. Is full
